@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# STM32CubeIDE / Eclipse
+.settings/
+.project
+.cproject
+.mxproject
+*.launch
+
+# Build output
+Debug/
+Release/
+build/
+target/
+
+# Archives
+*.zip
+
+# Temporary
+*.tmp
+*.bak
